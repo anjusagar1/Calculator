@@ -1,4 +1,4 @@
-package com.simplemobiletools.calculator.activities;
+package ui.mainscreen;
 
 
 import android.support.test.espresso.ViewInteraction;
@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.view.ViewParent;
 
 import com.simplemobiletools.calculator.R;
+import com.simplemobiletools.calculator.activities.SplashActivity;
 
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;
