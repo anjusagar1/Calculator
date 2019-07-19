@@ -1,4 +1,4 @@
-package ui.mainscreen;
+package ui.calculatormainscreen;
 
 
 import android.support.test.espresso.ViewInteraction;
